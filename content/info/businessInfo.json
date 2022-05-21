@@ -1,0 +1,21 @@
+{
+  "name": "Mr Toast",
+  "phoneNumber": "360-279-1231",
+  "email": "mrtoast@vastomarina.net",
+  "address": {
+    "name": "Mr Toast",
+    "description": "Vasto Marina",
+    "street": "1191 SE Dock St",
+    "street2": "#101",
+    "city": "Vasto",
+    "region": "Abruzzo",
+    "zip": "66050",
+    "directions": "https://www.google.com/maps/dir//Frasers+Gourmet+Hideaway+1191+SE+Dock+St+STE+101,+Oak+Harbor,+WA+98277"
+  },
+  "hours": [
+    {
+      "day": "Lun - Dom",
+      "hours": "APERTO ALLE 10:30"
+    }
+  ]
+}
